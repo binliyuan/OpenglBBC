@@ -1,0 +1,3 @@
+
+rootProject.name = "OpenglBBC"
+include ':app'
